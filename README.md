@@ -26,6 +26,8 @@ Criando primeira Pagina
 Comando para rodar aplicação em modo dev
     yarn dev
 
-- CScord publicado
 
-- https://cscord.vercel.app/?
+- Aplicação publicada
+
+- https://cscord.vercel.app
+
