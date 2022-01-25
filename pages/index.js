@@ -72,7 +72,7 @@ export default function PaginaInicial() {
                 styleSheet={{
                     display: 'flex', alignItems: 'center', justifyContent: 'center',
                     backgroundColor: appConfig.theme.colors.primary[500],
-                    backgroundImage: 'url()',
+                    backgroundImage: 'url(https://virtualbackgrounds.site/wp-content/uploads/2020/08/counter-strike-global-offensive-dust-ii-1536x864.jpg)',
                     backgroundRepeat: 'no-repeat', backgroundSize: 'cover', backgroundBlendMode: 'multiply',
                 }}
             >
