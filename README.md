@@ -29,5 +29,5 @@ Comando para rodar aplicação em modo dev
 
 - Aplicação publicada
 
-- https://cscord.vercel.app
+- https://coffeecord.vercel.app/
 
