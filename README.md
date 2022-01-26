@@ -30,7 +30,7 @@ Comando para rodar aplicação em modo dev
 
 Publicando Aplicação 
 
-    - https://coffeecord.vercel.app/
+     https://coffeecord.vercel.app/
 
 ### Aula 2
 
