@@ -32,7 +32,7 @@ Publicando Aplicação
 
     - https://coffeecord.vercel.app/
 
-### aula 2
+### Aula 2
 
 Aprofundar sobre o funcionamento: 
 
@@ -43,8 +43,8 @@ Aprofundar sobre o funcionamento:
 =======
 
 #### Desafio 1
- Validação 
-    - se o campo login tiver menos de 2 caracteres
-        não mostrar a imagem e desativar o botão 
-    - senão 
-        executar normalmente 
+  Validação 
+       - se o campo login tiver menos de 2 caracteres
+            não mostrar a imagem e desativar o botão 
+       - senão 
+           executar normalmente 
