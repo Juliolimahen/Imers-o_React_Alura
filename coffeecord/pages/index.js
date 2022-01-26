@@ -1,7 +1,9 @@
 import { Box, Button, Text, TextField, Image } from '@skynexui/components';
-import React from 'react';
+import React, { useMemo } from 'react';
 import { useRouter } from 'next/router';
 import appConfig from '../config.json';
+import validatioUser from "../service/validationUser";
+
 
 // Criando uma tag 
 function Titulo(props) {
@@ -20,6 +22,7 @@ function Titulo(props) {
         </>
     );
 }
+
 
 export default function PaginaInicial() {
 
@@ -69,9 +72,12 @@ export default function PaginaInicial() {
                         <TextField
                             value={username}
                             onChange={
+                                
                                 function (event) {
+                                    
                                     console.log(event.target.value);
                                     // onde esta o valor?
+                                   
                                     const valor = event.target.value;
                                     //trocar o valor da variavel 
                                     // atravé do rect e avisa quem tiver que avisar 
@@ -88,9 +94,12 @@ export default function PaginaInicial() {
                             }}
                         />
                         <Button
+                            disabled={username.length<3}
                             type='submit'
                             label='Entrar'
                             fullWidth
+                        
+                            
                             buttonColors={{
                                 contrastColor: appConfig.theme.colors.neutrals["000"],
                                 mainColor: appConfig.theme.colors.primary[500],
@@ -119,6 +128,7 @@ export default function PaginaInicial() {
                                 borderRadius: '50%',
                                 marginBottom: '16px',
                             }}
+                            
                             src={`https://github.com/${username}.png`}
                         />
                         <Text
