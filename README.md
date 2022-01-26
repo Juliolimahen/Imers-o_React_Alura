@@ -36,10 +36,14 @@ Publicando Aplicação
 
 Aprofundar sobre o funcionamento: 
 
+<<<<<<< HEAD
     - useState 
     - useRouter
     - onChange
     - onSubmit
+=======
+- https://coffeecord.vercel.app/
+>>>>>>> 4363f856092dc57a7f47770b09620a33d496c831
 
 #### Desafio 1
  Validação 
