@@ -30,20 +30,17 @@ Comando para rodar aplicação em modo dev
 
 Publicando Aplicação 
 
-    - https://cscord.vercel.app
+    - https://coffeecord.vercel.app/
 
 ### aula 2
 
 Aprofundar sobre o funcionamento: 
 
-<<<<<<< HEAD
     - useState 
     - useRouter
     - onChange
     - onSubmit
 =======
-- https://coffeecord.vercel.app/
->>>>>>> 4363f856092dc57a7f47770b09620a33d496c831
 
 #### Desafio 1
  Validação 
