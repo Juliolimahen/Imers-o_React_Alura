@@ -48,3 +48,16 @@ Aprofundar sobre o funcionamento:
         não mostrar a imagem e desativar o botão 
     - senão 
         executar normalmente 
+
+
+### Aula 3
+
+Aprofundar: 
+    - Em como podemos trabalhar com state
+    - Trabalhar com arrays no state
+
+#### Desafio 2 
+    - Criar um botão 'OK' como  mais uma alternativa para se enviar as mensagens, assim como o enter 
+
+#### Desafio 3 
+    - Criar um botão para excluir as mensagens da tela 
