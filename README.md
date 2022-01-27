@@ -40,7 +40,6 @@ Aprofundar sobre o funcionamento:
     - useRouter
     - onChange
     - onSubmit
-=======
 
 #### Desafio 1
 <<<<<<< HEAD
@@ -62,10 +61,3 @@ Aprofundar:
 
 #### Desafio 3 
     - Criar um botão para excluir as mensagens da tela 
-=======
-  Validação 
-       - se o campo login tiver menos de 2 caracteres
-            não mostrar a imagem e desativar o botão 
-       - senão 
-           executar normalmente 
->>>>>>> ee3d02a9d1be69bdbe89c2feee0dae91a63c47b0
