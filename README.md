@@ -42,7 +42,9 @@ Aprofundar sobre o funcionamento:
     - onSubmit
 
 #### Desafio 1
-Validação: se o campo login tiver menos de 2 caracteres: não mostrar a imagem e desativar o botão. Senão executar normalmente.
+Validação: 
+
+    - Se o campo login tiver menos de 2 caracteres: não mostrar a imagem e desativar o botão. Senão executar normalmente.
 
 
 ### Aula 3
