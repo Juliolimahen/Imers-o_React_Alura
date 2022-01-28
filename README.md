@@ -58,3 +58,24 @@ Aprofundar:
 
 #### Desafio 3 
     - Criar um botão para excluir as mensagens da tela 
+
+### Aula 4
+
+- Configurar back-end: supabase.io
+
+- Integração 
+
+- Como fazer AJAX: https://medium.com/@omariosouto/entendendo-como-fazer-ajax-com-a-fetchapi-977ff20da3c6
+
+
+#### Desafio 4
+
+- Adicionar loading enquanto a lista estiver vazia 
+
+#### Desafio 5 
+
+- Fazer um mouseOver, exibir detalhes do perfil do github
+
+#### Desafio 6
+
+- Botão para adicionar arquivos difentes, além das mensagens 
