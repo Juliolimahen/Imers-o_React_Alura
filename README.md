@@ -1,10 +1,19 @@
 # Imersão React Alura
 
-Desenvolvimento do AluraCord
-    (Aplicação WEB simulando o funcionamento de Discord)
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/Juliolimahen/imersao-react-alura/blob/main/LICENSE) 
+
+# Sobre o projeto
+
+Desenvolvimento do AluraCord (Aplicação WEB simulando o funcionamento de Discord)
+
+https://coffeecord.vercel.app/
+
+![Web 1](https://github.com/Juliolimahen/assets/blob/main/imersao-react-alura/login.png) ![web 2](https://github.com/Juliolimahen/assets/blob/main/imersao-react-alura/chat.png)
+
+
 ### Aula 1
 Documentação Next-JS
-    - https://nextjs.org/docs/getting-started
+- https://nextjs.org/docs/getting-started
 
 Instalando dependências 
 
@@ -30,7 +39,7 @@ Comando para rodar aplicação em modo dev
 
 Publicando Aplicação 
 
-     https://coffeecord.vercel.app/
+https://coffeecord.vercel.app/
 
 ### Aula 2
 
@@ -44,20 +53,20 @@ Aprofundar sobre o funcionamento:
 #### Desafio 1
 Validação: 
 
-    - Se o campo login tiver menos de 2 caracteres: não mostrar a imagem e desativar o botão. Senão executar normalmente.
+- Se o campo login tiver menos de 2 caracteres: não mostrar a imagem e desativar o botão. Senão executar normalmente.
 
 
 ### Aula 3
 
 Aprofundar: 
-    - Em como podemos trabalhar com state
-    - Trabalhar com arrays no state
+- Em como podemos trabalhar com state
+- Trabalhar com arrays no state
 
 #### Desafio 2 
-    - Criar um botão 'OK' como  mais uma alternativa para se enviar as mensagens, assim como o enter 
+- Criar um botão 'OK' como  mais uma alternativa para se enviar as mensagens, assim como o enter 
 
 #### Desafio 3 
-    - Criar um botão para excluir as mensagens da tela 
+- Criar um botão para excluir as mensagens da tela 
 
 ### Aula 4
 
