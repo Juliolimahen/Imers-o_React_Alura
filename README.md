@@ -9,7 +9,7 @@ Desenvolvimento do AluraCord (Aplicação WEB simulando o funcionamento do Disco
 https://coffeecord.vercel.app/
 
 
-# Layout WEB
+# Layout Web
 
 ![Web 1](https://github.com/Juliolimahen/assets/blob/main/imersao-react-alura/login.png) ![web 2](https://github.com/Juliolimahen/assets/blob/main/imersao-react-alura/chat.png)
 
