@@ -4,7 +4,7 @@
 
 # Sobre o projeto
 
-Desenvolvimento do AluraCord (Aplicação WEB simulando o funcionamento de Discord)
+Desenvolvimento do AluraCord (Aplicação WEB simulando o funcionamento do Discord)
 
 https://coffeecord.vercel.app/
 
